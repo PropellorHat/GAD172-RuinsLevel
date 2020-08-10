@@ -45,12 +45,13 @@ MonoBehaviour:
   - pbBevelAmount
   - pb_SmoothingGroupEditor::m_NormalsSize
   - pb_SmoothingGroupEditor::m_PreviewOpacity
+  - pbWeldDistance
   m_String_keys:
   - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
   m_Bool_values: 00010101010101010100010000010100
-  m_Int_values: 0100000001000000010000000100000000000000050000000000000009000000
+  m_Int_values: 0100000002000000010000000100000000000000050000000000000009000000
   m_Float_values:
   - 0
   - 0
@@ -59,6 +60,7 @@ MonoBehaviour:
   - 0.7406424
   - 0.8058152
   - 0.589
+  - 0.1
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   m_Color_values: []
